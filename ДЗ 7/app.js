@@ -34,4 +34,4 @@ const avg = (student) => {
  }, 0);
  
  const avgMark = avgSum / students.length;
- console.log(avgMark)
+ console.log(`Средний бал по всем студентам: ${avgMark}`)
